@@ -2,5 +2,7 @@
   "name": "MinamiDev Token",
   "symbol": "MNMDV",
   "description": "Example token from Solana for Minamide.",
-  "image": "https://raw.githubusercontent.com/TechPioneerX/new-sol-token-metadata/main/metadata/sol-minamide.png"
+  "image": "https://raw.githubusercontent.com/TechPioneerX/new-sol-token-metadata/main/metadata/sol-minamide.png",
+  "total_supply": 1000000000,
+  "decimals": 6
 }

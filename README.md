@@ -16,7 +16,9 @@ This repository is for metadata of our first solana token, based on this [tutori
   "name": "YOUR_TOKEN_NAME",
   "symbol": "YOUR_TOKEN_SYMBOL",
   "description": "YOUR_TOKEN_DESCRIPTION",
-  "image": "https://raw.githubusercontent.com/TechPioneerX/new-sol-token-metadata/main/metadata/sol-minamide.png"
+  "image": "https://raw.githubusercontent.com/TechPioneerX/new-sol-token-metadata/main/metadata/sol-minamide.png",
+  "total_supply": 1000000000,
+  "decimals": 6
 }
 ```
 
