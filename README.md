@@ -4,6 +4,10 @@
 
 This repository is for metadata of our first solana token, based on this [tutorial](https://solana.com/developers/guides/getstarted/how-to-create-a-token).
 
+**This is for TEST token on devnet, and metadata is provided from Cloud Stroage (GitHub), instead of IPFS**
+
+**This repo should be Public because metadata must be publicly available**
+
 ## image
 
 - The image is square, and 1024x1024 pixels
